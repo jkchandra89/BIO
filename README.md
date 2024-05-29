@@ -12,6 +12,6 @@ I'm a dedicated and hard-working individual with a passion for coding, currently
 
 💬 Ask me about my journey in Frontend and Full-Stack, the diverse projects I have undertaken, and my aspirations for the future...
 
-💬 In my spare time, my hobbies include traveling, reading mystery novels, and aspiring to be an author some day in the thriller fiction world of books.
+💬 In my spare time, my hobbies include traveling, reading mystery novels, and aspiring to be an author some day in the thriller fiction world of books...
 
 I am thrilled about the opportunity to be part of a team, working on impactful projects and am eager to explore potential opportunities further. Thank you for taking the time to read about me.
